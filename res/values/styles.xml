@@ -17,4 +17,9 @@
 		<!-- All customizations that are NOT specific to a particular API-level can go here. -->
 	</style>
 
+	<dimen name="CardRenderGridUnit">1dp</dimen>
+
+	<plurals name="CardRenderGridHeight">320</plurals>
+	<plurals name="CardRenderGridWidth">240</plurals>
+
 </resources>
