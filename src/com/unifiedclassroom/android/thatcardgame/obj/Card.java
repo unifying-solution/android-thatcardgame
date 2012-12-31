@@ -1,6 +1,6 @@
 package com.unifiedclassroom.android.thatcardgame.obj;
 
-public class Card
+public class Card extends XmlObject
 {
 
 	private String text;
